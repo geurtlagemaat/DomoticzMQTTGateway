@@ -1,0 +1,3 @@
+twisted==16.4.1
+concurrentloghandler>=0.9.1
+paho-mqtt==1.3.1
